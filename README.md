@@ -9,7 +9,7 @@ Criação do bot no @botfather
 #### v1.0.1 (03/04/2020)
 Preparação de um script em php com hospedagem web
 
-#### v1.0.2
+#### v1.0.2 (05/04/2020)
 Inclusão das formulas:
 - SE / IF / SI
 - HOJE / TODAY / HOY
