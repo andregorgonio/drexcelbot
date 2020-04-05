@@ -8,4 +8,4 @@ O Dr Excel proporciona um auxilio ao usuário informando uma descrição básica
 Para utiliza-lo será necessário tem o aplicativo do Telegram instalado na sua plataforma mobile/desktop ou acessar o telegram web e procurar po @drexcelbot.
 
 ## Versão
->v1.0.2 (05/04/2020)
+>v1.0.0.3 (05/04/2020)
