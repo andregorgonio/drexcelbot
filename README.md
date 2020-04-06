@@ -9,26 +9,3 @@ Para utiliza-lo será necessário tem o aplicativo do Telegram instalado na sua 
 
 ## Versão
 >v1.0.1.3 (06/04/2020)
-
-Formulas Compatíveis
-'Matemática & Trigonometria
-/soma
-/somase
-/somases
-
-'Estatística
-/cont.se
-/cont.ses
-
-'Textos
-/substituir
-
-'Data e Hora
-/hoje
-/agora
-
-'Lógica
-/se
-
-Funções VBA Compatíveis
-/for
